@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science** projects in general.
 
-- 👨‍💻 All of my projects are available [**here**][https://github.com/manjit-baishya-2023](https://github.com/manjit-baishya-2023)
+- 👨‍💻 All of my projects are available [**here**](https://github.com/manjit-baishya-2023)
 
 - 💬 Ask me about **Data Science**
 
