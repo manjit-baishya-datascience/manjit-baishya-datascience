@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/manjit-baishya-2023/manjit-baishya-2023/assets/127611924/5b4176ae-94a0-4baf-97fc-49cd7580b131)
+![Asset 6](https://github.com/manjit-baishya-2023/manjit-baishya-2023/assets/127611924/8dbf6475-c48a-4f75-a284-165b0a624209)
 
 <h1 align="center">Hi 👋, I'm Manjit Baishya</h1>
 <h3 align="center">Data Enthusiast with a taste in Design, Web Dev and Stories!</h3>
