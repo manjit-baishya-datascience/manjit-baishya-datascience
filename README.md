@@ -17,9 +17,15 @@
   <a href="https://www.linkedin.com/in/reach-manjit-here" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://manjit-baishya-2023" target="_blank">
      <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white target="_blank" /> 
   </a>
 </div>
 
-<!-- Subtitle -->
+<!-- Languages and Libraries -->
+<h2 align="center">⚒️ Languages & Libraries ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br>
+</div>
