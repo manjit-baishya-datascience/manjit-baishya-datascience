@@ -30,6 +30,6 @@
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br>
 </div>
 
-<div align="center>
+<div align="center">
     Test
 </div>
