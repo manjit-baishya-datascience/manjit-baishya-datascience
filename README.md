@@ -10,17 +10,18 @@
 <h2>Turning Raw Data into Insights</h2>
 
 <!-- List -->
-<li> 📌 Assam, India </li>
-<li> 👨‍🎓 ECE Graduate </li>
-<li> 🌱 Learning Data Science - ML &AI </li>
-<li> 🛠 Working on Projects </li>
-<li> 🤝 Open to Collaboration </li>
+<h4>
+    <li> 📌 Assam, India </li>
+    <li> 👨‍🎓 ECE Graduate </li>
+    <li> 🌱 Learning Data Science - ML & AI </li>
+    <li> 🤝 Open to Collaboration </li>
+</h4>
 
 <!-- About Me -->
 <h2>About Me 👨‍🎓</h2>
-<h3>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
+<h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
     <br>Passionate about leveraging analytical skills and technical background to extract insights from data 
-    <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h3>
+    <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h4>
 
 <!-- Social Profiles -->
 <div> 
