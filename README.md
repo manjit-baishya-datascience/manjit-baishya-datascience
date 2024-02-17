@@ -7,12 +7,14 @@
 </h1>
 
 <!-- Subtitle -->
-<h2>Data Enthusiast with a taste in Design, Web Dev and Stories!</h2>
+<h2>Data Enthusiast with a taste in Design and Dev.</h2>
 <h4>🌱 Learning Data Science - ML &AI </h4>
 <h4>💡 Turning Raw Data into Insights </h4>
 
 <h2>About Me 👨‍🎓</h2>
-<h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. Passionate about leveraging analytical skills and technical background to extract insights from data and solve real-world problems.</h4>
+<h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
+    <br>Passionate about leveraging analytical skills and technical background to extract insights from data 
+    <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h4>
 
 
 <!-- Social Profiles -->
