@@ -7,19 +7,16 @@
 </h1>
 
 <!-- Subtitle -->
-<h2 align="center">Data Enthusiast with a taste in Design, Web Dev and Stories!</h2>
-<h3 align="center">🌱 Learning Data Science - ML &AI </h3>
-<h3 align="center">💡 Turning Raw Data into Insights </h3>
+<h2>Data Enthusiast with a taste in Design, Web Dev and Stories!</h2>
+<h4>🌱 Learning Data Science - ML &AI </h4>
+<h4>💡 Turning Raw Data into Insights </h4>
 
-<h2 align="center">About Me 👨‍🎓</h2>
-<h4 align="center">Driven former Electronics and Communication Engineering student <br>
-    transitioning to the field of Data Science. <br> 
-    Passionate about leveraging analytical skills and technical background <br>
-    to extract insights from data and solve real-world problems.</h4>
+<h2>About Me 👨‍🎓</h2>
+<h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. Passionate about leveraging analytical skills and technical background to extract insights from data and solve real-world problems.</h4>
 
 
 <!-- Social Profiles -->
-<div align="center"> 
+<div> 
   <a href="mailto:manjitbaishya01@gmail.com">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"/>
   </a>
@@ -32,10 +29,10 @@
 </div>
 
 <!-- Languages and Libraries -->
-<h2 align="center">Languages 🖊</h2>
+<h2>Languages 🖊</h2>
 
 ![Asset 10](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/54cea01c-fb31-4f44-bf5f-806c07adbdc1)
 
-<h2 align="center">Libraries ⚒️</h2>
+<h2>Libraries ⚒️</h2>
 
 ![Asset 11](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/4e9cde21-f797-40bf-ac23-8d663bb0c3d7)
