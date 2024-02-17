@@ -7,11 +7,14 @@
 </h1>
 
 <!-- Subtitle -->
-<h2>Data Enthusiast with a taste in Design and Dev.</h2>
+<h2>Turning Raw Data into Insights</h2>
 
 <!-- List -->
-<li>🌱 Learning Data Science - ML &AI </li>
-<h4>💡 Turning Raw Data into Insights </h4>
+<li> 📌 Assam, India </li>
+<li> 👨‍🎓 ECE Graduate </li>
+<li> 🌱 Learning Data Science - ML &AI </li>
+<li> 🛠 Working on Projects </li>
+<li> 🤝 Open to Collaboration </li>
 
 <!-- About Me -->
 <h2>About Me 👨‍🎓</h2>
