@@ -1,7 +1,5 @@
 <!-- Hero Image -->
-<!-- ![Asset 6](https://github.com/manjit-baishya-2023/manjit-baishya-2023/assets/127611924/8dbf6475-c48a-4f75-a284-165b0a624209) -->
-
-![hero](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/733141c1-1013-4bd7-8173-588e59b3a117)
+![Hero GIF](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/872b2c32-aa8e-42e4-85aa-fa82ea320af5)
 
 <!-- Greeting Message -->
 <h1 align="center">
