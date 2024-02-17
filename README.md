@@ -1,5 +1,7 @@
 <!-- Hero Image -->
-![Asset 6](https://github.com/manjit-baishya-2023/manjit-baishya-2023/assets/127611924/8dbf6475-c48a-4f75-a284-165b0a624209)
+<!-- ![Asset 6](https://github.com/manjit-baishya-2023/manjit-baishya-2023/assets/127611924/8dbf6475-c48a-4f75-a284-165b0a624209) -->
+
+<img src="/assets/hero.gif"/>
 
 <!-- Greeting Message -->
 <h1 align="center">
