@@ -31,8 +31,9 @@
 <!-- Languages and Libraries -->
 <h2>Languages 🖊</h2>
 
-![Asset 10](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/54cea01c-fb31-4f44-bf5f-806c07adbdc1)
+![Asset 13](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/e5e9a71f-f28e-49c6-ad4f-ec11fc48c6b2)
 
 <h2>Libraries ⚒️</h2>
 
-![Asset 11](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/4e9cde21-f797-40bf-ac23-8d663bb0c3d7)
+![Asset 12](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/8bc0512f-7eb0-47ce-b6b6-cdef11fe8db6)
+
