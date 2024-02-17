@@ -7,7 +7,7 @@
 </h1>
 
 <!-- Subtitle -->
-<h2>Turning Raw Data into Insights</h2>
+<h2 align="center"> Turning Raw Data into Insights. </h2>
 
 <!-- List -->
 <h4>
