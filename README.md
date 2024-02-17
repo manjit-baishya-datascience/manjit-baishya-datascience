@@ -31,5 +31,5 @@
 </div>
 
 <div align="center>
-    <h1> Test</h1>
+    Test
 </div>
