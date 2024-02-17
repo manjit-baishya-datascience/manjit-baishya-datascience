@@ -8,11 +8,11 @@
 
 <!-- Subtitle -->
 <h2 align="center">Data Enthusiast with a taste in Design, Web Dev and Stories!</h2>
-<h4 align="center">🌱 Learning Data Science - ML &AI </h4>
-<h4 align="center">💡 Turning Raw Data into Insights </h4>
+<h3 align="center">🌱 Learning Data Science - ML &AI </h3>
+<h3 align="center">💡 Turning Raw Data into Insights </h3>
 
-<h2>About Me 👨‍🎓</h2>
-<h4>Driven former Electronics and Communication Engineering student <br>
+<h2 align="center">About Me 👨‍🎓</h2>
+<h4 align="center">Driven former Electronics and Communication Engineering student <br>
     transitioning to the field of Data Science. <br> 
     Passionate about leveraging analytical skills and technical background <br>
     to extract insights from data and solve real-world problems.</h4>
