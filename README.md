@@ -8,14 +8,16 @@
 
 <!-- Subtitle -->
 <h2>Data Enthusiast with a taste in Design and Dev.</h2>
-<h4>🌱 Learning Data Science - ML &AI </h4>
+
+<!-- List -->
+<li>🌱 Learning Data Science - ML &AI </li>
 <h4>💡 Turning Raw Data into Insights </h4>
 
+<!-- About Me -->
 <h2>About Me 👨‍🎓</h2>
-<h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
+<h3>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
     <br>Passionate about leveraging analytical skills and technical background to extract insights from data 
-    <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h4>
-
+    <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h3>
 
 <!-- Social Profiles -->
 <div> 
