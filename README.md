@@ -30,7 +30,5 @@
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br>
 </div> -->
 
-<div align="center">
-    ![Asset 1](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/b6acf400-3d4b-41c8-9643-3457e7a46830)
-    ![Asset 2](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/28b0cc27-68c7-44fd-80d0-80ce99d3d757)
-</div>
+![Asset 1](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/b6acf400-3d4b-41c8-9643-3457e7a46830)  
+![Asset 2](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/28b0cc27-68c7-44fd-80d0-80ce99d3d757)
