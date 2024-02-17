@@ -23,19 +23,10 @@
 </div>
 
 <!-- Languages and Libraries -->
-<h2 align="center">⚒️ Languages ⚒️</h2>
-<br/>
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql" />
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br>
-</div> -->
+<h2 align="center">🖊 Languages 🖊</h2>
 
 ![Asset 5](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/b9db1831-1e50-453e-bffa-b8b763c9f3f8)
 
-<br/>
-
-<h2 align="center">⚒️ Languages ⚒️</h2>
-<br/>
-
+<h2 align="center">⚒️ Libraries ⚒️</h2>
 
 ![Asset 6](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/77a4b6a7-4d01-4d04-8127-bbe089e4e820)
