@@ -18,21 +18,21 @@
 </h4>
 
 <!-- About Me -->
-<h2>About Me 👨‍🎓</h2>
+<h1>About Me 👨‍🎓</h1>
 <h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
     <br>Passionate about leveraging analytical skills and technical background to extract insights from data 
     <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h4>
 
 <!-- Social Profiles -->
 <div> 
-  <a href="mailto:manjitbaishya01@gmail.com">
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"/>
+  <a href = "mailto:manjitbaishya01@gmail.com" target="_blank">
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://www.linkedin.com/in/reach-manjit-here" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href = "https://www.linkedin.com/in/reach-manjit-here" target="_blank">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://manjit-baishya-2023" target="_blank">
-     <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white target="_blank" /> 
+  <a href = "https://medium.com/@datacodedesign" target="_blank">
+     <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
   </a>
 </div>
 
