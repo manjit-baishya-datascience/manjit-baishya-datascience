@@ -3,7 +3,7 @@
 
 <!-- Greeting Message -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello!+👋;+I'm+Manjit!;+Welcome+to+my+profile.🙏" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi!+I'm+Manjit!+👋;+Welcome+to+my+profile.✨" />
 </h1>
 
 <!-- Subtitle -->
@@ -39,11 +39,11 @@
 
 
 <!-- Languages and Libraries -->
-<h2>Languages 🖊</h2>
+<h1>Languages 🖊</h1>
 
 ![Asset 13](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/e5e9a71f-f28e-49c6-ad4f-ec11fc48c6b2)
 
-<h2>Libraries ⚒️</h2>
+<h1>Libraries ⚒️</h1>
 
 ![Asset 12](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/8bc0512f-7eb0-47ce-b6b6-cdef11fe8db6)
 
