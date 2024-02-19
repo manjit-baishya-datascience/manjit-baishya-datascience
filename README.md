@@ -3,7 +3,7 @@
 
 <!-- Greeting Message -->
 <h1 align="center">
-    Hi, I'm Manjit 
+    Hi, I'm Manjit!👋
 </h1>
 
 <!-- Subtitle -->
