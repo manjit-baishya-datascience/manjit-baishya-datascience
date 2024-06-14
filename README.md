@@ -37,7 +37,7 @@
   <br>I am an ECE Student and so I have also been working on some
 <code>Embedded Systems and IOT</code> based
 <br>projects. I aim to make a few contributions to the field of <code>Embedded Machine Learning</code> or <code>TinyML</code>.
-<br>I have catalogued all the projects in <a href="https://github.com/manjit-baishya-embedded-systems-and-iot/manjit-baishya-embedded-systems-and-iot">here</a>. I am also working on a few <code>Web and App Development</code> projects which have been catalogued in a similar manner in <a href="https://github.com/manjit-baishya-development">here</a>.
+<br>I have catalogued all the projects in <a href="https://github.com/manjit-baishya-embedded-systems-and-iot/manjit-baishya-embedded-systems-and-iot">here</a>. I am also working on a few <code>Web and App Development</code> <br>projects which have been catalogued in a similar manner in <a href="https://github.com/manjit-baishya-development">here</a>.
 </h4>
 
 <!-- Social Profiles -->
