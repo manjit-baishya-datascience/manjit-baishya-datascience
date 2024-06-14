@@ -29,7 +29,15 @@
 <!-- My Work -->
 <h1>My Work 🎓</h1>
 <h4>
-  I have been working on Data Science projects and I have neatly organised them in the <a href="https://github.com/manjit-baishya-datascience/INDEX">INDEX</a>. The Index itself has various sections where I have briefly described about the projects. Each project has a repository of its own where the projects and its related work has been published in descriptive manner. I am an ECE Student and so I have also been working on some Embedded Systems and IOT based projects. I aim to make a few contributions to the field of Embedded Machine Learning or TinyML. I have catalogued all the projects in <a href="https://github.com/manjit-baishya-embedded-systems-and-iot/manjit-baishya-embedded-systems-and-iot">here</a>. I am also working on a few Web and App Development projects which have been catalogued in a similar manner in <a href="https://github.com/manjit-baishya-development">here</a>.
+  I have been working on <code>Data Science</code> projects and I have neatly organised them in the <a href="https://github.com/manjit-baishya-datascience/INDEX">INDEX</a>.
+  <br>The Index itself has various sections where I have briefly described about the projects.
+  <br>Each project has a repository of its own where the projects and its related work has been
+  <br>published in descriptive manner.
+  
+  <br>I am an ECE Student and so I have also been working on some
+<code>Embedded Systems and IOT</code> based
+<br>projects. I aim to make a few contributions to the field of <code>Embedded Machine Learning</code> or <code>TinyML</code>.
+<br>I have catalogued all the projects in <a href="https://github.com/manjit-baishya-embedded-systems-and-iot/manjit-baishya-embedded-systems-and-iot">here</a>. I am also working on a few <code>Web and App Development</code> projects which have been catalogued in a similar manner in <a href="https://github.com/manjit-baishya-development">here</a>.
 </h4>
 
 <!-- Social Profiles -->
