@@ -14,15 +14,23 @@
     <li> 📌 Assam, India </li>
     <li> 👨‍🎓 ECE Graduate </li>
     <li> 🌱 Learning Data Science - ML & AI </li>
-    <li> 🏢 Currently working on ML projects </li>
+    <li> 🏢 Currently working on DS projects </li>
     <li> 🤝 Open to Collaboration </li>
 </h4>
 
 <!-- About Me -->
 <h1>About Me 👨‍🎓</h1>
-<h4>Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
-    <br>Passionate about leveraging analytical skills and technical background to extract insights from data 
-    <br>and solve real-world problems. Currently working on personal projects to level up my skills.</h4>
+<h4>
+  Driven former Electronics and Communication Engineering student transitioning to the field of Data Science. 
+  <br>Passionate about leveraging analytical skills and technical background to extract insights from data 
+  <br>and solve real-world problems. Currently working on personal projects to level up my skills.
+</h4>
+
+<!-- My Work -->
+<h1>My Work 🎓</h1>
+<h4>
+  I have been working on Data Science projects and I have neatly organised them in the <a href="https://github.com/manjit-baishya-datascience/INDEX">INDEX</a>. The Index itself has various sections where I have briefly described about the projects. Each project has a repository of its own where the projects and its related work has been published in descriptive manner. I am an ECE Student and so I have also been working on some Embedded Systems and IOT based projects. I aim to make a few contributions to the field of Embedded Machine Learning or TinyML. I have catalogued all the projects in <a href="https://github.com/manjit-baishya-embedded-systems-and-iot/manjit-baishya-embedded-systems-and-iot">here</a>. I am also working on a few Web and App Development projects which have been catalogued in a similar manner in <a href="https://github.com/manjit-baishya-development">here</a>.
+</h4>
 
 <!-- Social Profiles -->
 <div> 
